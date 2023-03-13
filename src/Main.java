@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
+
         nurbek infa = new nurbek();
         infa.name = "Nurbek";
         infa.yo = 15;
