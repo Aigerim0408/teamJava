@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
+
         System.out.println("Aigerim");
         Safia safia = new Safia();
         safia.name = "safia";
