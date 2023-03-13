@@ -1,4 +1,4 @@
-public class safia {
+public class Safia {
     String name;
     String address;
     String currentPlaceOfWork;
