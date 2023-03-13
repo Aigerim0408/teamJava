@@ -13,5 +13,6 @@ public class Main {
         System.out.println("=========================\n" + "Name: " + infa.name + "\nYears old: " + infa.yo +
         "\nSex: " + infa.pol + "\nAddress: " + infa.address + "\nSchool number: " + infa.schoolnumber +
         "\nClass: " + infa.clas + "\nMarital status: " + infa.maritalStatus + "\n=========================");
+        System.out.println("Aigerim");
     }
 }
